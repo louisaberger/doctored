@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  date: 
+  doctor_name: MyString
+  saw_name: MyString
+  reason: MyText
+  outcome: MyText
+  notes: MyText
+
+two:
+  date: 
+  doctor_name: MyString
+  saw_name: MyString
+  reason: MyText
+  outcome: MyText
+  notes: MyText
